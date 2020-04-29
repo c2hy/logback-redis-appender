@@ -1,4 +1,4 @@
-package com.github.suzor.appender;
+package com.github.suzor.logback.appender;
 
 import ch.qos.logback.classic.spi.ILoggingEvent;
 import ch.qos.logback.core.UnsynchronizedAppenderBase;
